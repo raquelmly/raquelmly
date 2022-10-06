@@ -1,3 +1,4 @@
+# sobre mim
 - 👋 olá, meu nome é @raquelmly      
 - :+1: meu email de contato é raquel.mlynarski@escola.pr.gov.br   
 - 👀 eu estou interessado em aprender a programar novas linguagens.
